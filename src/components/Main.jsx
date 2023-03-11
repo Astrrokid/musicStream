@@ -5,11 +5,11 @@ const Main= ()=>{
     <div className="main">
         <nav>
             <div className="arrows">
-                <i class="ri-arrow-left-line" size={50}></i>
+                <i class="ri-arrow-left-line"></i>
                 <i class="ri-arrow-right-line"></i>
             </div>
             <div className="searchbar">
-                <input type="text" placeholder="Search..." />
+                <input type="search" placeholder="Search..." />
             </div>
         </nav>
         <div className="container">
