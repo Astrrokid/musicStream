@@ -35,8 +35,8 @@ const Main= ()=>{
                     </div>
                     <div className="bottomCard">
                         <div className="playFollow">
-                            <a href="" className="play">PLAY</a>
-                            <a href="" className="follow">FOLLOW</a>
+                            <a href="www.facebook.com" className="play">PLAY</a>
+                            <a href="www.facebook.com" className="follow">FOLLOW</a>
                         </div>
                         <div className="monthly">
                             <h5>Monthly Listener</h5>
@@ -51,7 +51,7 @@ const Main= ()=>{
                         <h1>MY PLAYLIST</h1>
                     </div>
                     <div className="playlistNav2">
-                        <a href=""><h5>Show All</h5></a>
+                        <a href="www.facebook.com"><h5>Show All</h5></a>
                     </div>
                 </div>
                 <table>

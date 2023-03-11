@@ -1,5 +1,4 @@
 import './App.css';
-import card from './components/images/card.png'
 import React from'react';
 import Main from './components/Main.jsx'
 import LeftSidebar from './components/LeftSidebar.jsx'

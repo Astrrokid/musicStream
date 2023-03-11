@@ -5,7 +5,7 @@ function RightSidebar(){
                 <div className="shortcut">
                     <h2>Shortcuts</h2>
                     <div className="content">
-                        <a href="" className="custom">Chill Hits</a>
+                        <a href="www.facebook.com" className="custom">Chill Hits</a>
                     </div>
                 </div>
                 <div className="favArtiste">
