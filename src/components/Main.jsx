@@ -9,7 +9,7 @@ const Main= ()=>{
                 <i class="ri-arrow-right-line"></i>
             </div>
             <div className="searchbar">
-                <input type="text" placeholder=" Search..." />
+                <input type="text" placeholder="Search..." />
             </div>
         </nav>
         <div className="container">
@@ -24,7 +24,7 @@ const Main= ()=>{
                             <h5>More</h5>
                         </div>
                         <div className="moreArrow">
-                        <i class="ri-arrow-right-s-line"></i>
+                            <i class="ri-arrow-right-s-line"></i>
                         </div>
                     </div>
                 </div>
@@ -54,6 +54,22 @@ const Main= ()=>{
                         <a href=""><h5>Show All</h5></a>
                     </div>
                 </div>
+                <table>
+                    <tr>
+                        <th className='id'>#</th>
+                        <th>TITLE</th>
+                        <th>ARTISTE</th>
+                        <th>TIME</th>
+                        <th>ALBUM</th>
+                    </tr>
+                    <tr>
+                        <td>1</td>
+                        <td>Maria Anders</td>
+                        <td>Germany</td>
+                        <td>Germany</td>
+                        <td>Germany</td>
+                    </tr>
+                </table>
 
             </div>
         </div>
